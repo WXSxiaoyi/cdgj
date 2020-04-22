@@ -1,0 +1,42 @@
+<!--index.wxml-->
+<view class="container">
+  <!--  头部功能页  -->
+  <view class="TopHeader">
+    <navigator path="" class="item">
+      <image src="../../assets/image/saoma.png"></image>
+      <text class="text-top">扫码验证</text>
+    </navigator>
+    <navigator path="" class="item">
+      <image src="../../assets/image/saoma.png"></image>
+      <text class="text-top">扫码验证</text>
+    </navigator>
+    <navigator path="" class="item">
+      <image src="../../assets/image/saoma.png"></image>
+      <text class="text-top">扫码验证</text>
+    </navigator>
+    <navigator path="" class="item">
+      <image src="../../assets/image/saoma.png"></image>
+      <text class="text-top">扫码验证</text>
+    </navigator>
+  </view>
+  <!-- 功能页 -->
+  <view class="BomFooter">
+    <!--  公告栏  -->
+    <view class="gonGao">
+      <image src="../../assets/image/gonGao.png"></image>
+    </view>
+    <!--  剪发栏  -->
+    <view class="jianFa">
+      <text>剪发烫染轮排</text>
+      <view class="item-1">
+        <image src="" />
+        <text>剪发</text>
+        <view class="shiFu">
+          <image src="" />
+          <text>佳文</text>
+          <text>.可接待</text>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

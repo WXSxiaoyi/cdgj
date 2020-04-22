@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/indent/index",
+    "pages/product/index",
+    "pages/user/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "仓岛管家",
+    "backgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "backgroundColor": "#FFF",
+    "selectedColor": "#f03d37",
+    "color": "#696969",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "订单",
+        "pagePath": "pages/indent/index"
+      },
+      {
+        "text": "产品",
+        "pagePath": "pages/product/index"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/user/index"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
